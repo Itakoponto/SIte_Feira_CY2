@@ -1,0 +1,10 @@
+.corpo{
+    background-image: url('cidade_projeto.jpg');
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.butao2 {
+    background-color: blueviolet;
+}
