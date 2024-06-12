@@ -1,0 +1,21 @@
+.corpo{
+    background-image: url('wallpaper.jpeg');
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.butao2 {
+    background-color: blueviolet;
+}
+
+.corpoc{
+  background-image: url('ioq9whIwnc_1920_1342.jpg');
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+.bardo {
+  
+}
