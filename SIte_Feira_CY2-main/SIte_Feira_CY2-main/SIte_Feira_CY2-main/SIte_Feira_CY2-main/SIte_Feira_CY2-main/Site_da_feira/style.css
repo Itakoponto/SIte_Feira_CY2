@@ -1,0 +1,33 @@
+.corpo{
+    background-image: url('imagens/wp_dnd.jpeg');
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.butao2 {
+    background-color: blueviolet;
+}
+
+.corpoc{
+  background-image: url('imagens/wp_classes.jpg');
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+.card{
+  background: rgba(0, 0, 0, 0.705);
+}
+
+.card-text{
+  color: white;
+}
+
+.card-title{
+  color: white;
+}
+
+.text-body-secondary{
+  color: white !important;
+}
